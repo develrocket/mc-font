@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'McLaren Bespoke';
+    src: url('McLarenBespokeRegular.woff2') format('woff2'),
+        url('McLarenBespokeRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'McLaren Bespoke';
+    src: url('McLarenBespokeBold.woff2') format('woff2'),
+        url('McLarenBespokeBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'McLaren Bespoke';
+    src: url('McLarenBespokeLight.woff2') format('woff2'),
+        url('McLarenBespokeLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
